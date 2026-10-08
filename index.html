@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#10120f">
+    <meta name="description"
+        content="Your meme is alive. Discover a digital species, read its market DNA, and create your holder card.">
+    <title>SPECIES — The market is its DNA.</title>
+    <link rel="icon" href="assets/logo/logo-new.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header class="header"><a class="brand" href="#discover" aria-label="SPECIES home"><img class="brand-symbol"
+                src="assets/logo/logo-new.jpg" alt=""><img class="wordmark" src="assets/logo/type.svg"
+                alt="SPECIES"></a>
+        <nav aria-label="Main navigation"><a href="#discover">DISCOVER</a><a href="#ecosystem">ECOSYSTEM</a><a
+                href="#graveyard">GRAVEYARD</a><a href="#leaderboard">LEADERBOARD</a><a href="#mine">MY SPECIES</a>
+        </nav><button id="wallet-button" class="button outline small">CONNECT WALLET <span>↗</span></button><button
+            class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+    </header>
+    <main id="app"></main>
+    <footer>
+        <div class="footer-top"><a class="brand" href="#discover"><img class="brand-symbol"
+                    src="assets/logo/logo-new.jpg" alt=""><img class="wordmark" src="assets/logo/type.svg"
+                    alt="SPECIES"></a><span>THE MARKET IS ITS DNA.</span><span class="online">ECOSYSTEM ONLINE</span>
+        </div>
+        <div class="footer-bottom">
+            <p>Market data and PNL use reference snapshots or user-provided inputs. Listed tokens are not affiliated
+                with or endorsed by SPECIES.
+            </p>
+            <div><a href="#discover">DISCOVER</a><a href="#ecosystem">ECOSYSTEM</a><a href="#graveyard">GRAVEYARD</a><a
+                    href="#leaderboard">LEADERBOARD</a><a
+                    href="https://x.com/intent/tweet?text=YOUR%20MEME%20IS%20ALIVE.%20THE%20MARKET%20IS%20ITS%20DNA.%20%24SPECIES"
+                    target="_blank" rel="noopener">X ↗</a><a href="#keeper">SETTINGS</a></div>
+        </div>
+    </footer>
+    <dialog id="modal" aria-label="Species dialog"><button class="modal-close" aria-label="Close dialog">×</button>
+        <div id="modal-body"></div>
+    </dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <script src="assets/vendor/three.min.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/evolution.js"></script>
+    <script src="js/species.js"></script>
+    <script src="js/wallet.js"></script>
+    <script src="js/cards.js"></script>
+    <script src="js/three-scene.js"></script>
+    <script src="js/hero-evolution.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/agent-tools.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pengu",
+    "name": "Pudgy Penguins",
+    "file": "assets/tokens/pengu.png",
+    "source": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+    "reference": "https://www.coingecko.com/en/coins/pudgy-penguins"
+  },
+  {
+    "id": "spx",
+    "name": "SPX6900",
+    "file": "assets/tokens/spx.png",
+    "source": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
+    "reference": "https://www.coingecko.com/en/coins/spx6900"
+  },
+  {
+    "id": "bonk",
+    "name": "Bonk",
+    "file": "assets/tokens/bonk.jpg",
+    "source": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
+    "reference": "https://www.coingecko.com/en/coins/bonk"
+  },
+  {
+    "id": "wif",
+    "name": "dogwifhat",
+    "file": "assets/tokens/wif.jpg",
+    "source": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+    "reference": "https://www.coingecko.com/en/coins/dogwifcoin"
+  },
+  {
+    "id": "fartcoin",
+    "name": "Fartcoin",
+    "file": "assets/tokens/fartcoin.jpg",
+    "source": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+    "reference": "https://www.coingecko.com/en/coins/fartcoin"
+  },
+  {
+    "id": "turbo",
+    "name": "Turbo",
+    "file": "assets/tokens/turbo.png",
+    "source": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
+    "reference": "https://www.coingecko.com/en/coins/turbo"
+  },
+  {
+    "id": "brett",
+    "name": "Brett",
+    "file": "assets/tokens/brett.png",
+    "source": "https://coin-images.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+    "reference": "https://www.coingecko.com/en/coins/based-brett"
+  },
+  {
+    "id": "pnut",
+    "name": "Peanut the Squirrel",
+    "file": "assets/tokens/pnut.png",
+    "source": "https://coin-images.coingecko.com/coins/images/51301/large/Peanut_the_Squirrel.png?1734941241",
+    "reference": "https://www.coingecko.com/en/coins/peanut-the-squirrel"
+  },
+  {
+    "id": "popcat",
+    "name": "Popcat",
+    "file": "assets/tokens/popcat.jpg",
+    "source": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
+    "reference": "https://www.coingecko.com/en/coins/popcat"
+  },
+  {
+    "id": "mew",
+    "name": "cat in a dogs world",
+    "file": "assets/tokens/mew.png",
+    "source": "https://coin-images.coingecko.com/coins/images/36440/large/MEW.png?1711442286",
+    "reference": "https://www.coingecko.com/en/coins/cat-in-a-dogs-world"
+  },
+  {
+    "id": "mog",
+    "name": "Mog Coin",
+    "file": "assets/tokens/mog.png",
+    "source": "https://coin-images.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
+    "reference": "https://www.coingecko.com/en/coins/mog-coin"
+  },
+  {
+    "id": "giga",
+    "name": "Gigachad",
+    "file": "assets/tokens/giga.png",
+    "source": "https://coin-images.coingecko.com/coins/images/34755/large/IMG_0015.png?1705957165",
+    "reference": "https://www.coingecko.com/en/coins/gigachad-2"
+  },
+  {
+    "id": "goat",
+    "name": "Goatseus Maximus",
+    "file": "assets/tokens/goat.jpg",
+    "source": "https://coin-images.coingecko.com/coins/images/50717/large/GOAT_LOGO_NEW.jpg?1731292759",
+    "reference": "https://www.coingecko.com/en/coins/goatseus-maximus"
+  },
+  {
+    "id": "michi",
+    "name": "michi",
+    "file": "assets/tokens/michi.png",
+    "source": "https://coin-images.coingecko.com/coins/images/102172383/large/michi.png?1773197540",
+    "reference": "https://www.coingecko.com/en/coins/michi"
+  },
+  {
+    "id": "neiro",
+    "name": "Neiro",
+    "file": "assets/tokens/neiro.png",
+    "source": "https://coin-images.coingecko.com/coins/images/39411/large/logo_new_%281%29.png?1722541389",
+    "reference": "https://www.coingecko.com/en/coins/neiro"
+  }
+]
